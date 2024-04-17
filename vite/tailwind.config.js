@@ -5,7 +5,12 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily:{
+        Rubik: ["Rubik", "sans-serif"],
+        NjNaruto: ['NjNaruto', 'sans-serif'],
+      }
+    },
   },
   plugins: [],
 }
