@@ -1,11 +1,11 @@
-import naruto from "./assets/naruto-crop.png";
+import naruto from "./assets/blurr-crop.png";
 import Navbar from "./components/Navbar";
 
 function App() {
   return (
     <div className="h-screen bg-orange-200 py-5 font-Rubik">
       <Navbar></Navbar>
-      <div className="flex justify-center gap-20 py-14">
+      <div className="flex justify-center gap-15 py-14">
         <div>
           <h1 className="text-7xl font-bold text-[#1E4387] mb-4 font-NjNaruto mt-4">
             ML Village
@@ -24,7 +24,7 @@ function App() {
             Notion Page Coming Soon ...
           </button>
         </div>
-        <img src={naruto} alt="naruto" className="h-[550px] mr-10" />
+        <img src={naruto} alt="naruto" className="h-[555px] mr-10" />
       </div>
     </div>
   );

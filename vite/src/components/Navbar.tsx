@@ -7,9 +7,9 @@ import {
 } from "@fortawesome/free-brands-svg-icons";
 export default function Navbar() {
   return (
-    <div className="h-24 flex items-center justify-center gap-[65rem]">
+    <div className="h-24 flex items-center justify-center gap-[57.5rem]">
       <img src={logo} className=" h-20" />
-      <ul className="flex gap-7 items-center text-2xl text-gray-600">
+      <ul className="flex gap-9 items-center text-3xl text-gray-600">
         <li className="cursor-pointer">
           <FontAwesomeIcon icon={faGithub} />
         </li>
