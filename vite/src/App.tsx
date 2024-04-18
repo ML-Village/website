@@ -42,7 +42,7 @@ function App() {
                   className="text-xl mt-14 h-16 w-80 border-2 rounded-full bg-[#BCBFD2] text-[#0C0C4F] opacity-50"
                   disabled
                 >
-                  Notion Page Coming Soon ...
+                  White Paper Coming Soon ...
                 </button>
               </motion.div>
             </div>
@@ -88,7 +88,7 @@ function App() {
                   className=" text-xs h-12 w-48 border-2 rounded-full bg-[#BCBFD2] text-[#0C0C4F] opacity-50"
                   disabled
                 >
-                  Notion Page Coming Soon ...
+                  White Paper Coming Soon ...
                 </button>
               </motion.div>
             </div>
